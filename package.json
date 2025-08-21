@@ -6,6 +6,7 @@
     "quill": "latest",
     "react-quill": "latest",
     "react-scripts": "^5.0.1",
+    "web-vitals": "^5.1.0",
     "y-quill": "...",
     "y-websocket": "...",
     "yjs": "..."
